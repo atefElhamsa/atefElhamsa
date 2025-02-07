@@ -22,7 +22,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/atef-elhamsa-1a7199203" target="_blank"><img src="https://img.shields.io/badge/-Atef Elhamsa -0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="[https://www.facebook.com/profile.php?id=100042878015702&mibextid=ZbWKwL](https://www.facebook.com/share/12F4rHmma43/)" target="_blank"><img src="https://img.shields.io/badge/-Atef Elhamsa -0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/atef.elhamsa.7?rdid=BtZ5b2GI1y8WhEDF&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F12F4rHmma43%2F#" target="_blank"><img src="https://img.shields.io/badge/-Atef Elhamsa -0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Skills
 
