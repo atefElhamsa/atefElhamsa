@@ -3,7 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3 align="center">
-  Welcome to Abdelrahman montaser  profile!
+  Welcome to Atef Elhamsa's profile!
   <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="25">
 </h3>
 
@@ -21,8 +21,8 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/abdelrahman-montaser-839600280/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman Montaser -0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100042878015702&mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman Montaser -0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/atef-elhamsa-1a7199203" target="_blank"><img src="https://img.shields.io/badge/-Atef Elhamsa -0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://www.facebook.com/profile.php?id=100042878015702&mibextid=ZbWKwL](https://www.facebook.com/share/12F4rHmma43/)" target="_blank"><img src="https://img.shields.io/badge/-Atef Elhamsa -0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Skills
 
