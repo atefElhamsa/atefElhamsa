@@ -6,7 +6,7 @@
 <a href="https://github.com/atefElhamsa"><img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/atef-elhamsa-1a7199203"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="tel:01552946586"><img src="https://img.shields.io/badge/-PHONE-16a34a?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://nafezly.com/u/atefelhamsa"><img src="https://img.shields.io/badge/-PORTFOLIO-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://atefelhamsa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -50,19 +50,20 @@ education: B.Sc. Computers & Information,
 ### ⚡ Tech Stack
 
 <p align="left">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&animation=spin&svgfill=15d8fe">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=15d8fe">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nodejs&svgfill=68a063">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express&svgfill=ffffff">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=8ed5fa">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=659b60">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=df5c43">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=cd6799">
-<img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=windows&svgfill=f6df1c">
-<img src="https://img.shields.io/badge/BLOC%2FCUBIT-3B82F6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIS-F97316?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DIO%20%2F%20HTTP-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CLEAN%20ARCHITECTURE-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/BLoC%2FCubit-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dio%20%2F%20HTTP-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-111827?style=for-the-badge"/>
 </p>
 
 ## 💼 Professional Experience
@@ -84,7 +85,7 @@ education: B.Sc. Computers & Information,
 | 📰 **News Wave** | News app with clean UI | ✅ Live |
 | 📊 **Responsive Dashboard** | Cross-platform responsive admin dashboard | ✅ Live |
 
-*(المزيد من المشاريع على [nafezly.com/u/atefelhamsa](https://nafezly.com/u/atefelhamsa))*
+*(المزيد من المشاريع على [البورتفوليو الشخصي](https://atefelhamsa-portfolio.vercel.app/))*
 
 ## 🎓 Education & Training
 
